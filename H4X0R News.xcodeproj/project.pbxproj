@@ -78,9 +78,9 @@
 		A7734E8D285A482F0013B6F6 /* H4X0R News */ = {
 			isa = PBXGroup;
 			children = (
+				A76D2624293EDEED00E1D9A6 /* Views */,
 				A76D261F293D465D00E1D9A6 /* Models */,
 				A7734E8E285A482F0013B6F6 /* H4X0R_NewsApp.swift */,
-				A76D2624293EDEED00E1D9A6 /* Views */,
 				A7734E92285A48320013B6F6 /* Assets.xcassets */,
 				A7734E94285A48320013B6F6 /* Preview Content */,
 			);

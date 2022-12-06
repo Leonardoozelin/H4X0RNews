@@ -2,15 +2,15 @@
 //  ContentView.swift
 //  H4X0R News
 //
-//  Created by Leonardo Miranda on 15/06/22.
+//  Created by Leonardo Miranda on 12/05/22.
 //
 
 import SwiftUI
 
 struct ContentView: View {
-    
+
     @ObservedObject var networkManager = NetworkMenager()
-    
+
     var body: some View {
         NavigationView{
             List(networkManager.posts){ post in
